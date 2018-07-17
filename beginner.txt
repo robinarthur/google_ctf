@@ -1,2 +1,10 @@
 Cake: CTF{ICanReadDis}
 Caesar: CTF{caesarcipherisasubstitutioncipher}
+MOAR: CTF{SOmething-CATastr0phic}
+Security by obscurity: CTF{CompressionIsNotEncryption}
+Floppy: CTF{qeY80sU6Ktko8BJW}
+Firmware: 
+JS Safe:
+Floppy2: CTF{g00do1dDOS-FTW}
+Admin UI: CTF{I_luv_buggy_sOFtware}
+Amin UI2: 
