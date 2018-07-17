@@ -1,0 +1,2 @@
+Cake: CTF{ICanReadDis}
+Caesar: CTF{caesarcipherisasubstitutioncipher}
